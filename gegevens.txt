@@ -1,0 +1,3 @@
+wp_database_test
+username: sabine
+lec#apj18
